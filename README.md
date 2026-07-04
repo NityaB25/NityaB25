@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nitya 👋<br><br>I am  passionate about building scalable software and AI-powered applications.<br><br>I enjoy working across the full stack, with a strong interest in Retrieval-Augmented Generation (RAG), Large Language Models, backend systems, and system design. I love turning ideas into products that are fast, reliable, and easy to use.<br><br>Currently, I'm exploring LLM applications, vector databases, retrieval pipelines, and cloud deployment while continuously improving my problem-solving skills through competitive programming.
+Hi, I'm Nitya <br><br>I am passionate about building scalable software and AI-powered applications.<br><br>I enjoy working across the full stack, with a strong interest in Retrieval-Augmented Generation (RAG), Large Language Models, backend systems, and system design. I love turning ideas into products that are fast, reliable, and easy to use.<br><br>Currently, I'm exploring LLM applications, vector databases, retrieval pipelines, and cloud deployment while continuously improving my problem-solving skills through competitive programming.
 
 
 ## 🌐 Socials:
