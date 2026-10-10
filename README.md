@@ -1,1 +1,1 @@
-Curios
+Curious
